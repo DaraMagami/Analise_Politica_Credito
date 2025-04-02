@@ -4,7 +4,7 @@
 
 Este estudo trata-se de um conjunto de análises de dados dos clientes de uma instituição financeira fictícia no que diz respeito às suas características como requerentes de crédito. São apresentados, a seguir, mais detalhes sobre o projeto.
 
-Os dados utilizados podem ser obtidos em: https://www.kaggle.com/datasets/vagifa/ethereum-frauddetection-dataset
+Os dados utilizados podem ser obtidos em: https://www.kaggle.com/datasets/laotse/credit-risk-dataset
 
 ## Introdução
 
@@ -33,4 +33,5 @@ Após concluir o projeto, as principais conclusões obtidas foram:
 3.Há, principalmente, 3 grandes grupos de requerentes: conservadores, alavancados e medianos;
 
 4.Dado o alto nível de inadimplência para determinados grupos, é válido mencionar que há espaço para o aprimoramento do modelo que define o nível de risco dos clientes.
+
 
